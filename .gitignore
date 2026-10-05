@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/secrets.toml
+data/apolices.db
+outputs/*
+!outputs/.gitkeep
+Projeto_Final_Artefatos/*.mp4
+.ipynb_checkpoints/
+.DS_Store
+.claude/

@@ -1,0 +1,4 @@
+# PDFs e PPTX sao binarios: impede a conversao de fim de linha (core.autocrlf),
+# que corromperia o relatorio, as apolices de exemplo e o pitch deck.
+*.pdf binary
+*.pptx binary
