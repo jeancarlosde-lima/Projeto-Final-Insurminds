@@ -18,8 +18,7 @@ linguagem natural.
 > Grupo **Squad 4one** — Curso InsurMinds, Instituto de Inteligência Artificial Aplicada (I2A2).
 
 **Entregáveis:** [relatório técnico (PDF)](docs/InsurMinds_Projeto_Final_Relatorio_Tecnico.pdf) ·
-[pitch deck (PPTX)](Projeto_Final_Artefatos/InsurMinds_Projeto_Final.pptx) ·
-[roteiro do vídeo](Projeto_Final_Artefatos/roteiro_video.md)
+[pitch deck (PPTX)](Projeto_Final_Artefatos/InsurMinds_Projeto_Final.pptx)
 
 ---
 
@@ -188,9 +187,7 @@ Projeto-Final-Insurminds/
 │   ├── gerar_pitch_deck.js       gera o pitch deck
 │   └── InsurMinds_Projeto_Final_Relatorio_Tecnico.pdf
 ├── Projeto_Final_Artefatos/
-│   ├── InsurMinds_Projeto_Final.pptx
-│   ├── InsurMinds_Projeto_Final.mp4
-│   └── roteiro_video.md
+│   └── InsurMinds_Projeto_Final.pptx
 ├── outputs/                      comparativos exportados
 └── src/
     ├── config.py                 campos comparáveis, parâmetros, credenciais
