@@ -198,7 +198,8 @@ with abas[1]:
             st.markdown("**Exclusoes**")
             st.write("\n".join(f"- {e}" for e in ficha.exclusoes) or "nao localizadas")
             if ficha.evidencias:
-                with st.expander("Evidencias da extracao (trechos do documento)"):
+                st.markdown("**Evidencias da extracao (trechos do documento)**")
+                with st.container(border=True):
                     for campo, trecho in ficha.evidencias.items():
                         st.markdown(f"**{campo}** — _{trecho}_")
             st.caption(
